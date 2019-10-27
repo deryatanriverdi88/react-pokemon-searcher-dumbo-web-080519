@@ -21,3 +21,19 @@
 .App-intro {
   font-size: large;
 }
+
+.pokemon-card{
+  list-style: none;
+  border: 1px solid gray;
+  margin: 10px;
+  border-radius: 15px;
+}
+
+ul.pokemon-card li {
+  text-align: center;
+  margin:0 auto;
+}
+
+.cards{
+ padding-left: 5%;
+}
